@@ -1,6 +1,6 @@
 Pillow==5.2.0
 imutils==0.5.2
-numpy==1.17.0
+numpy==1.22.0
 opencv-python==4.1.0.25
 tensorflow==1.14.0
 keras==2.2.4
